@@ -1,10 +1,16 @@
 
-
 This project determines the relationship between the unindexed web and the indexed web
 It uses a crawler and scraper; both the codes are written by MS and PhD Grad Students at Indiana University
 The schema and prototyping of the project is done by Arvind Dwarakanath, Doga Tuncay and Chi-Yang Tsao.
 
 Project Abstract
-The project deals with the study of the unindexed web. In brief, the unindexed or ‘UnWeb’ as we call it in the project are those pages on the internet that are not indexed (usually that will be by the host site) and are therefore not crawled by a search engine. The project tries to establish the relationship between the unindexed portions of the web and the indexed portions and determines how a user navigates from the unindexed of the web to the indexed portion and vice-versa.
-Initially, we talk about the motivation and the challenges which we faced in the project. Furthermore, we discuss the schema used in storage of the data and the tables that were deemed necessary and the codes that were implemented for the collection and the querying of the data. Also, we discuss a few queries that may be fired on the schema to retrieve the important information visually or as a simple result set.
+The project deals with the study of the unindexed web. In brief, the unindexed or ‘UnWeb’ as we call it 
+in the project are those pages on the internet that are not indexed (usually that will be by the host site)
+and are therefore not crawled by a search engine. The project tries to establish the relationship between the
+unindexed portions of the web and the indexed portions and determines how a user navigates from the unindexed
+of the web to the indexed portion and vice-versa. Initially, we talk about the motivation and the challenges
+which we faced in the project. Furthermore, we discuss the schema used in storage of the data and the tables 
+that were deemed necessary and the codes that were implemented for the collection and the querying of the data.
+Also, we discuss a few queries that may be fired on the schema to retrieve the important information visually 
+or as a simple result set.
 
